@@ -1,4 +1,4 @@
-//* ELEMENTOS DE DOM Y VARIABLES GLOBALES
+//* ELEMENTOS PRINCIPALES DEL DOM
 
 // pantallas
 const splashScreenNode = document.querySelector("#splash-screen")
@@ -12,8 +12,14 @@ const startBtnNode = document.querySelector("#start-btn")
 const gameBoxNode = document.querySelector("#game-box")
 
 
+//* VARIABLES GLOBALES DEL JUEGO
 
-//* FUNCIONES GLOBALES DE CAMBIO DE ESTADO E INICIO
+
+
+
+
+
+//* FUNCIONES GLOBALES DEL JUEGO
 
 
 
